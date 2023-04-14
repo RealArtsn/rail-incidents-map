@@ -17,3 +17,9 @@ h1, h2 {
 .slider {
     width:100%;
 }
+
+#map {
+    /* match dimensions of svg */
+    width:989.98px;
+    height:627.07px;
+}
