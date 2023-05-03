@@ -3,15 +3,17 @@ map.data = {}
 function init() {
     console.log('init')
     // this will not work by opening html from local file
-    fetch('years.json')
+    // use npm module http-server instead
+    fetch('years_states_named.json') // this is the input json file for the data
     .then(response => response.json())
     .then(data => {
         map.data = data;
         updateColors();
     })
   .catch(error => console.error(error));    
-    // set year slider to 2020
-    document.querySelector('#yearSlider').value = 2020;
+    // set year slider to 2022
+    document.querySelector('#yearSlider').value = 2022;
+    console.log("Slider set.")
     
 }
 
@@ -30,13 +32,16 @@ function updateColors() {
     for (const county of svgDoc.querySelectorAll('#counties path')) {
         county.style.fill='white';
     }
-    // change fill color for counties that appear in data
-    for (const [county, values] of Object.entries(counties)) {
+    // change fill color for states that appear in data
+    for (const [stateName, values] of Object.entries(counties)) {
         try {
-            svgDoc.querySelector(`#c${county}`).style.fill = 'red';
+            for (const state of svgDoc.querySelectorAll(`#${stateName} path`)) {
+                state.style.fill('red');
+            }
+            // svgDoc.querySelector(`#c${county}`).style.fill = 'red';
         }
         catch(TypeError) {
-            console.log(`County ${county} not found for ${year}.`)
+            console.log(`County ${stateName} not found for ${year}.`)
         }
             
     }
