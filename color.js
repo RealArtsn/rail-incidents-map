@@ -61,6 +61,8 @@ function updateColors() {
         let count = +map.data[year][stateName][map.mode];
         if (!count) {
             colorState(stateName, 'gray');
+            // update text to show on hover
+            updateHoverText(stateName, '0*');
             continue;
         }
         let hue = (count / map.max[map.mode]) * 255;
@@ -77,6 +79,7 @@ function updateColors() {
                 break;
         }
         colorState(stateName, color);
+        updateHoverText(stateName, count);
     }
 }
 
@@ -91,8 +94,8 @@ function colorState(stateName, color) {
     }
 }
 
-function calcIncidentsPer1mMiles(incidents, miles) {
-    return (incidents / miles) * 1000000;
+function calcIncidentsPer100kMiles(incidents, miles) {
+    return (incidents / miles) * 100000;
 }
 
 // TODO: consolidate loops to fix redundancies 
@@ -119,7 +122,7 @@ function getMax(key) {
 function recordRatios() {
     for (const [year, yearValues] of Object.entries(map.data)) {
         for (const [state, stateValues] of Object.entries(yearValues)) {
-            map.data[year][state]['ratio'] = calcIncidentsPer1mMiles(+map.data[year][state]['incidents'], +map.data[year][state]['miles']);
+            map.data[year][state]['ratio'] = calcIncidentsPer100kMiles(+map.data[year][state]['incidents'], +map.data[year][state]['miles']);
         }
     }
 }
@@ -141,9 +144,30 @@ function updateTitle() {
     switch(map.mode) {
         case 'incidents': text = 'INCIDENTS'; break;
         case 'miles': text = 'OPERATING MILES'; break;
-        case 'ratio': text = 'INCIDENTS PER 1M MILES'; break;
+        case 'ratio': text = 'INCIDENTS PER 100K MILES'; break;
     }
     document.querySelector("#title").textContent = `RAIL ${text}`;
+}
+
+// change hover text for each county
+function updateHoverText(stateName, count) {
+    // round decimals to 2 places
+    if (+count % 1 != 0) {
+        count = (+count).toFixed(2)
+    }
+    // assign count if is NAN
+    if (isNaN(count)) {
+        count = '0*';
+    }
+    try {
+        titles = map.svg.querySelectorAll(`#${stateName} title`);
+    }
+    catch(TypeError) {
+        console.log('Could not update text for ' + stateName);
+    }
+    titles.forEach(node => {
+        node.textContent = `${stateName} : ${count}`;
+    });
 }
 init();
 
