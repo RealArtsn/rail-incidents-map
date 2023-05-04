@@ -24,6 +24,7 @@ function init() {
         // set default mode
         map.mode = 'incidents';
         updateColors();
+        updateScale('red'); // start with a red gradient
     })
     .catch(error => console.error(error));            
 }
@@ -35,6 +36,8 @@ function init() {
 function handleButton() {
     map.mode = this.id;
     updateColors();
+    updateScale();
+    updateTitle();
 }
 
 // update year text to match slider position
@@ -121,5 +124,26 @@ function recordRatios() {
     }
 }
 
+function updateScale() {
+    let gradientColor;
+    switch(map.mode) {
+        case 'incidents': gradientColor = 'red'; break;
+        case 'miles': gradientColor = 'green'; break;
+        case 'ratio': gradientColor = 'blue'; break;
+    }
+    document.querySelector('#key').style.background = `linear-gradient(to right, white 0%, ${gradientColor} 100%)`
+    // set max value at end of gradient
+    document.querySelector('#maxValue').textContent = parseInt(map.max[map.mode]);
+}
+
+function updateTitle() {
+    let text;
+    switch(map.mode) {
+        case 'incidents': text = 'INCIDENTS'; break;
+        case 'miles': text = 'OPERATING MILES'; break;
+        case 'ratio': text = 'INCIDENTS PER 1M MILES'; break;
+    }
+    document.querySelector("#title").textContent = `RAIL ${text}`;
+}
 init();
 

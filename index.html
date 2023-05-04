@@ -7,9 +7,9 @@
 </head>
 <body>
     <script src="color.js" defer></script>
-    <h1>RAIL INCIDENTS BY YEAR</h1>
-    <h2 id="year">2022</h2>
-    <div class="slidercontainer">
+    <h1 id="title">RAIL INCIDENTS BY YEAR</h1>
+    <h1 id="year">2022</h1>
+    <div class="slidercontainer mapWidth">
         <input type="range" min="1975" max="2022" value="2022" step="1" class="slider" id="yearSlider">
         <div class="buttonContainer">
             <button id="incidents">Incidents</button>
@@ -18,7 +18,18 @@
         </div>
     </div>
 
-    <iframe src="Usa_counties_large.svg" id="map"></iframe>
+    <iframe src="Usa_counties_large.svg" id="map" class="mapWidth"></iframe>
+    <div class="mapWidth">
+        <div id="key"></div>
+        <div id="keyNumbers">
+            <p>>0</p>
+            <p id="maxValue">max</p>
+        </div>
+        <div id="description">
+            <p>Grayed-out states have zero incidents or are unreported. This visualization is derived from USDOT data and is intended to approximate overall trends in railroad activity.</p>
+        </div>
+    </div>
+
     
 </body>
 </html>

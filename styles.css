@@ -4,14 +4,16 @@ body {
     align-items: center;
     justify-content: center;
     background-color:rgb(44, 44, 44);
+    font-family: sans-serif;
+    padding-top:20px;
 }
 
-h1, h2, button {
+h1, h2, button, p {
     color: white;
+    margin: 5px;
 }
 
 .slidercontainer {
-    width:50%;
     margin:5px;
     margin-bottom:0;
 }
@@ -21,7 +23,7 @@ h1, h2, button {
 
 .buttonContainer {
     display:flex;
-    justify-content:space-between;
+    justify-content:center;
 }
 
 .buttonPressed {
@@ -32,13 +34,37 @@ button {
     background-color: rgb(44, 44, 44);
     margin-bottom:0;
     font-size: 20pt;
-    margin:0;
+    margin:0 40px;
     border-radius:10px;
+}
+
+.mapWidth {
+    width:989.98px;
 }
 
 #map {
     /* match dimensions of svg */
-    width:989.98px;
     height:627.07px;
     border-radius:30px;
+}
+
+#key {
+    margin:4px;
+    height:20px;
+    border-radius:10px;
+}
+
+#keyNumbers {
+    display:flex;
+    justify-content: space-between;
+    font-size:18px;
+}
+#keyNumbers * {
+    margin:1px 15px;
+}
+
+#description {
+    text-align: center;
+    margin: 4px;
+    font-size: 12.8px;
 }
