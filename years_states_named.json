@@ -110,27 +110,27 @@
             "incidents": "24",
             "miles": "149762"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "14",
             "miles": "52355"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "60",
             "miles": "2874464"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "26",
             "miles": "4583"
         },
-        "New York": {
+        "New_York": {
             "incidents": "220",
             "miles": "11702146"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "122",
             "miles": "247938"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "40"
         },
         "Ohio": {
@@ -149,18 +149,18 @@
             "incidents": "366",
             "miles": "119283111"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "6",
             "miles": "11328"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "60",
             "miles": "81680"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "61"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "263",
             "miles": "1295681"
         },
@@ -184,7 +184,7 @@
             "incidents": "137",
             "miles": "257760"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "169",
             "miles": "20654"
         },
@@ -306,26 +306,26 @@
             "incidents": "48",
             "miles": "133136"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "19",
             "miles": "70157"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "42",
             "miles": "105040"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "23"
         },
-        "New York": {
+        "New_York": {
             "incidents": "204",
             "miles": "17895022"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "167",
             "miles": "122739"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "70"
         },
         "Ohio": {
@@ -344,18 +344,18 @@
             "incidents": "329",
             "miles": "133606898"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "4",
             "miles": "11491"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "80",
             "miles": "89230"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "100"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "380",
             "miles": "1425693"
         },
@@ -379,7 +379,7 @@
             "incidents": "232",
             "miles": "268840"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "201",
             "miles": "18398"
         },
@@ -501,26 +501,26 @@
             "incidents": "41",
             "miles": "135168"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "12",
             "miles": "57590"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "21",
             "miles": "106539"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "35"
         },
-        "New York": {
+        "New_York": {
             "incidents": "149",
             "miles": "12185080"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "200",
             "miles": "114327"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "65"
         },
         "Ohio": {
@@ -539,18 +539,18 @@
             "incidents": "291",
             "miles": "118688261"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "6",
             "miles": "11620"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "85",
             "miles": "90321"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "92"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "301",
             "miles": "1444181"
         },
@@ -574,7 +574,7 @@
             "incidents": "256",
             "miles": "262578"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "141",
             "miles": "18699"
         },
@@ -697,26 +697,26 @@
             "incidents": "37",
             "miles": "60350"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "10",
             "miles": "46300"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "42",
             "miles": "116432"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "33"
         },
-        "New York": {
+        "New_York": {
             "incidents": "157",
             "miles": "11493945"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "208",
             "miles": "122945"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "93"
         },
         "Ohio": {
@@ -735,18 +735,18 @@
             "incidents": "340",
             "miles": "105584668"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "7",
             "miles": "11434"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "121",
             "miles": "91451"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "85"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "317",
             "miles": "1392516"
         },
@@ -770,7 +770,7 @@
             "incidents": "297",
             "miles": "240609"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "176",
             "miles": "23924"
         },
@@ -889,26 +889,26 @@
             "incidents": "42",
             "miles": "24800"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "6",
             "miles": "43799"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "34",
             "miles": "122203"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "51"
         },
-        "New York": {
+        "New_York": {
             "incidents": "149",
             "miles": "11538915"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "156",
             "miles": "106389"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "75"
         },
         "Ohio": {
@@ -927,18 +927,18 @@
             "incidents": "340",
             "miles": "104148172"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "8",
             "miles": "11428"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "84",
             "miles": "102303"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "41"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "270",
             "miles": "1349146"
         },
@@ -962,7 +962,7 @@
             "incidents": "238",
             "miles": "214776"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "179",
             "miles": "45678"
         },
@@ -1084,26 +1084,26 @@
             "incidents": "30",
             "miles": "43812"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "14",
             "miles": "56760"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "33",
             "miles": "62624"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "53"
         },
-        "New York": {
+        "New_York": {
             "incidents": "118",
             "miles": "11633792"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "129",
             "miles": "138550"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "65"
         },
         "Ohio": {
@@ -1122,18 +1122,18 @@
             "incidents": "246",
             "miles": "87219230"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "7",
             "miles": "11596"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "59",
             "miles": "101698"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "40"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "200",
             "miles": "1528958"
         },
@@ -1157,7 +1157,7 @@
             "incidents": "215",
             "miles": "236248"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "184",
             "miles": "46490"
         },
@@ -1281,26 +1281,26 @@
             "incidents": "49",
             "miles": "27007"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "14",
             "miles": "46228"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "33",
             "miles": "33088"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "31"
         },
-        "New York": {
+        "New_York": {
             "incidents": "137",
             "miles": "11598824"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "74",
             "miles": "199558"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "45"
         },
         "Ohio": {
@@ -1319,18 +1319,18 @@
             "incidents": "206",
             "miles": "78766687"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2",
             "miles": "11220"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "32",
             "miles": "98276"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "29"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "116",
             "miles": "1427527"
         },
@@ -1354,7 +1354,7 @@
             "incidents": "123",
             "miles": "187016"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "102",
             "miles": "51277"
         },
@@ -1477,26 +1477,26 @@
             "incidents": "17",
             "miles": "46499"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "7",
             "miles": "49519"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "22",
             "miles": "28985"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "26"
         },
-        "New York": {
+        "New_York": {
             "incidents": "104",
             "miles": "11690807"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "46",
             "miles": "168431"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "47"
         },
         "Ohio": {
@@ -1515,19 +1515,19 @@
             "incidents": "155",
             "miles": "64717731"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "9598"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "20",
             "miles": "89015"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "40",
             "miles": "26993"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "82",
             "miles": "328885"
         },
@@ -1551,7 +1551,7 @@
             "incidents": "56",
             "miles": "216598"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "104",
             "miles": "53679"
         },
@@ -1674,26 +1674,26 @@
             "incidents": "17",
             "miles": "8818"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "7",
             "miles": "38774"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "13",
             "miles": "4415059"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "29"
         },
-        "New York": {
+        "New_York": {
             "incidents": "90",
             "miles": "15131640"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "50",
             "miles": "141547"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "46"
         },
         "Ohio": {
@@ -1712,15 +1712,15 @@
             "incidents": "107",
             "miles": "53298234"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "25",
             "miles": "66184"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "21",
             "miles": "17835"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "77",
             "miles": "95815"
         },
@@ -1744,7 +1744,7 @@
             "incidents": "46",
             "miles": "210924"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "61",
             "miles": "48327"
         },
@@ -1867,26 +1867,26 @@
             "incidents": "18",
             "miles": "0"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "10",
             "miles": "47128"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "15",
             "miles": "5875785"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "41"
         },
-        "New York": {
+        "New_York": {
             "incidents": "118",
             "miles": "14812492"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "45",
             "miles": "173415"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "44"
         },
         "Ohio": {
@@ -1905,18 +1905,18 @@
             "incidents": "119",
             "miles": "56652353"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "23",
             "miles": "83830"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "28",
             "miles": "17025"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "57",
             "miles": "153377"
         },
@@ -1940,7 +1940,7 @@
             "incidents": "59",
             "miles": "182012"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "86",
             "miles": "49820"
         },
@@ -2063,26 +2063,26 @@
             "incidents": "13",
             "miles": "0"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "9",
             "miles": "57010"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "18",
             "miles": "5738278"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "23"
         },
-        "New York": {
+        "New_York": {
             "incidents": "86",
             "miles": "11543654"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "29",
             "miles": "173718"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "42"
         },
         "Ohio": {
@@ -2101,18 +2101,18 @@
             "incidents": "92",
             "miles": "55891470"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "23",
             "miles": "83860"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "17",
             "miles": "19137"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "60",
             "miles": "158847"
         },
@@ -2136,7 +2136,7 @@
             "incidents": "36",
             "miles": "161438"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "71",
             "miles": "50955"
         },
@@ -2256,26 +2256,26 @@
             "incidents": "7",
             "miles": "0"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "60901"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "29",
             "miles": "5794171"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "21"
         },
-        "New York": {
+        "New_York": {
             "incidents": "66",
             "miles": "10576094"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "28",
             "miles": "185113"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "27"
         },
         "Ohio": {
@@ -2294,15 +2294,15 @@
             "incidents": "84",
             "miles": "55934906"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "18",
             "miles": "78112"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "14",
             "miles": "323097"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "54",
             "miles": "168108"
         },
@@ -2326,7 +2326,7 @@
             "incidents": "38",
             "miles": "209063"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "75",
             "miles": "31445"
         },
@@ -2448,26 +2448,26 @@
         "Nevada": {
             "incidents": "3"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "3",
             "miles": "42391"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "31",
             "miles": "7660778"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "22"
         },
-        "New York": {
+        "New_York": {
             "incidents": "73",
             "miles": "11294401"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "30",
             "miles": "224244"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "30",
             "miles": "42279"
         },
@@ -2487,15 +2487,15 @@
             "incidents": "89",
             "miles": "54124326"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "17",
             "miles": "87910"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "32",
             "miles": "1574835"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "56",
             "miles": "234133"
         },
@@ -2519,7 +2519,7 @@
             "incidents": "31",
             "miles": "364227"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "68",
             "miles": "31245"
         },
@@ -2643,26 +2643,26 @@
         "Nevada": {
             "incidents": "11"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "3",
             "miles": "39120"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "34",
             "miles": "7666431"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "20"
         },
-        "New York": {
+        "New_York": {
             "incidents": "57",
             "miles": "17256080"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "35",
             "miles": "266905"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "26",
             "miles": "108945"
         },
@@ -2682,15 +2682,15 @@
             "incidents": "73",
             "miles": "62285343"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "26",
             "miles": "124024"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "17",
             "miles": "1565664"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "92",
             "miles": "231976"
         },
@@ -2714,7 +2714,7 @@
             "incidents": "46",
             "miles": "379421"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "47",
             "miles": "35541"
         },
@@ -2839,27 +2839,27 @@
         "Nevada": {
             "incidents": "16"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "3",
             "miles": "71865"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "33",
             "miles": "7662698"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "22",
             "miles": "5585"
         },
-        "New York": {
+        "New_York": {
             "incidents": "65",
             "miles": "16432204"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "52",
             "miles": "323329"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "24",
             "miles": "130520"
         },
@@ -2879,15 +2879,15 @@
             "incidents": "72",
             "miles": "60739531"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "35",
             "miles": "111780"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "15",
             "miles": "502864"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "77",
             "miles": "300867"
         },
@@ -2911,7 +2911,7 @@
             "incidents": "62",
             "miles": "1054130"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "36",
             "miles": "37989"
         },
@@ -3036,27 +3036,27 @@
         "Nevada": {
             "incidents": "12"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "5",
             "miles": "64901"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "45",
             "miles": "7476508"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "33",
             "miles": "45382"
         },
-        "New York": {
+        "New_York": {
             "incidents": "55",
             "miles": "17653787"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "38",
             "miles": "410803"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "24",
             "miles": "162146"
         },
@@ -3076,15 +3076,15 @@
             "incidents": "51",
             "miles": "59282516"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "23",
             "miles": "102974"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "28",
             "miles": "660880"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "90",
             "miles": "291243"
         },
@@ -3108,7 +3108,7 @@
             "incidents": "74",
             "miles": "419658"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "32",
             "miles": "33321"
         },
@@ -3234,26 +3234,26 @@
             "incidents": "16",
             "miles": "1573"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "65258"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "63",
             "miles": "8290188"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "30",
             "miles": "56538"
         },
-        "New York": {
+        "New_York": {
             "incidents": "76",
             "miles": "17414506"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "36",
             "miles": "369403"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "25",
             "miles": "204883"
         },
@@ -3273,19 +3273,19 @@
             "incidents": "63",
             "miles": "48853838"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1",
             "miles": "5354"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "16",
             "miles": "121886"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "33",
             "miles": "727073"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "69",
             "miles": "268488"
         },
@@ -3309,7 +3309,7 @@
             "incidents": "84",
             "miles": "425913"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "29",
             "miles": "37457"
         },
@@ -3435,27 +3435,27 @@
             "incidents": "18",
             "miles": "7076"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "4",
             "miles": "77228"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "42",
             "miles": "8765101"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "19",
             "miles": "73073"
         },
-        "New York": {
+        "New_York": {
             "incidents": "66",
             "miles": "17732936"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "26",
             "miles": "335462"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "24",
             "miles": "198440"
         },
@@ -3475,15 +3475,15 @@
             "incidents": "64",
             "miles": "49201139"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "17",
             "miles": "124235"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "31",
             "miles": "733969"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "46",
             "miles": "224220"
         },
@@ -3507,7 +3507,7 @@
             "incidents": "70",
             "miles": "426681"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "24",
             "miles": "48308"
         },
@@ -3633,27 +3633,27 @@
             "incidents": "10",
             "miles": "8459"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "88841"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "43",
             "miles": "9098653"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "17",
             "miles": "90067"
         },
-        "New York": {
+        "New_York": {
             "incidents": "81",
             "miles": "18183461"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "26",
             "miles": "336579"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "38",
             "miles": "204386"
         },
@@ -3673,18 +3673,18 @@
             "incidents": "61",
             "miles": "51709369"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "miles": "4666"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "24",
             "miles": "131532"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "20",
             "miles": "696824"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "68",
             "miles": "231126"
         },
@@ -3708,7 +3708,7 @@
             "incidents": "94",
             "miles": "458910"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "15",
             "miles": "48122"
         },
@@ -3834,27 +3834,27 @@
             "incidents": "14",
             "miles": "9834"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "3",
             "miles": "84412"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "29",
             "miles": "9156940"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "20",
             "miles": "106064"
         },
-        "New York": {
+        "New_York": {
             "incidents": "84",
             "miles": "18218066"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "33",
             "miles": "362910"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "40",
             "miles": "184154"
         },
@@ -3874,19 +3874,19 @@
             "incidents": "66",
             "miles": "54277028"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "1945"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "10",
             "miles": "137037"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "30",
             "miles": "697325"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "59",
             "miles": "240479"
         },
@@ -3910,7 +3910,7 @@
             "incidents": "71",
             "miles": "464412"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "17",
             "miles": "51712"
         },
@@ -4036,27 +4036,27 @@
             "incidents": "5",
             "miles": "27227"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "86166"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "19",
             "miles": "9567978"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "17",
             "miles": "97479"
         },
-        "New York": {
+        "New_York": {
             "incidents": "89",
             "miles": "18801063"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "24",
             "miles": "350487"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "38",
             "miles": "196214"
         },
@@ -4076,18 +4076,18 @@
             "incidents": "59",
             "miles": "51747323"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "28",
             "miles": "157303"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "41",
             "miles": "714108"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "53",
             "miles": "244978"
         },
@@ -4111,7 +4111,7 @@
             "incidents": "87",
             "miles": "478742"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "22",
             "miles": "41604"
         },
@@ -4237,27 +4237,27 @@
             "incidents": "14",
             "miles": "32872"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "87423"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "21",
             "miles": "9843495"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "21",
             "miles": "97471"
         },
-        "New York": {
+        "New_York": {
             "incidents": "94",
             "miles": "18459919"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "25",
             "miles": "353156"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "41",
             "miles": "179375"
         },
@@ -4277,15 +4277,15 @@
             "incidents": "68",
             "miles": "52439198"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "20",
             "miles": "153711"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "28",
             "miles": "783889"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "43",
             "miles": "230376"
         },
@@ -4309,7 +4309,7 @@
             "incidents": "57",
             "miles": "467311"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "28",
             "miles": "42528"
         },
@@ -4438,26 +4438,26 @@
             "incidents": "8",
             "miles": "65902"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "79172"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "31",
             "miles": "10135096"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "15",
             "miles": "103714"
         },
-        "New York": {
+        "New_York": {
             "incidents": "95",
             "miles": "19440640"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "30",
             "miles": "353929"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "30",
             "miles": "216481"
         },
@@ -4477,15 +4477,15 @@
             "incidents": "108",
             "miles": "52837592"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "31",
             "miles": "157989"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "24",
             "miles": "765314"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "70",
             "miles": "199493"
         },
@@ -4509,7 +4509,7 @@
             "incidents": "53",
             "miles": "429080"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "25",
             "miles": "50666"
         },
@@ -4638,27 +4638,27 @@
             "incidents": "10",
             "miles": "43938"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "61260"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "30",
             "miles": "10182449"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "23",
             "miles": "103343"
         },
-        "New York": {
+        "New_York": {
             "incidents": "107",
             "miles": "19678548"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "42",
             "miles": "360887"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "35",
             "miles": "210015"
         },
@@ -4678,15 +4678,15 @@
             "incidents": "124",
             "miles": "53580304"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "32",
             "miles": "161113"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "21",
             "miles": "723016"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "69",
             "miles": "215723"
         },
@@ -4710,7 +4710,7 @@
             "incidents": "41",
             "miles": "495287"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "27",
             "miles": "49526"
         },
@@ -4839,27 +4839,27 @@
             "incidents": "8",
             "miles": "16010"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "59976"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "39",
             "miles": "11802905"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "22",
             "miles": "97613"
         },
-        "New York": {
+        "New_York": {
             "incidents": "111",
             "miles": "19665891"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "41",
             "miles": "326257"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "27",
             "miles": "223875"
         },
@@ -4879,15 +4879,15 @@
             "incidents": "115",
             "miles": "26549402"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "38",
             "miles": "170512"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "15",
             "miles": "854942"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "73",
             "miles": "221601"
         },
@@ -4911,7 +4911,7 @@
             "incidents": "44",
             "miles": "505191"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "28",
             "miles": "54326"
         },
@@ -5040,26 +5040,26 @@
             "incidents": "12",
             "miles": "1703"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "66508"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "71",
             "miles": "13059264"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "27",
             "miles": "99404"
         },
-        "New York": {
+        "New_York": {
             "incidents": "149",
             "miles": "20156655"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "35",
             "miles": "352666"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "25",
             "miles": "236024"
         },
@@ -5079,18 +5079,18 @@
             "incidents": "141",
             "miles": "6912050"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "32",
             "miles": "166421"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "22",
             "miles": "847691"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "68",
             "miles": "227665"
         },
@@ -5114,7 +5114,7 @@
             "incidents": "51",
             "miles": "533701"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "15",
             "miles": "41172"
         },
@@ -5243,27 +5243,27 @@
             "incidents": "14",
             "miles": "1633"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "60191"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "66",
             "miles": "12808758"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "37",
             "miles": "123514"
         },
-        "New York": {
+        "New_York": {
             "incidents": "143",
             "miles": "20011922"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "33",
             "miles": "347502"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "31",
             "miles": "262722"
         },
@@ -5283,18 +5283,18 @@
             "incidents": "99",
             "miles": "6593991"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "30",
             "miles": "223694"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "15",
             "miles": "815394"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "70",
             "miles": "221383"
         },
@@ -5318,7 +5318,7 @@
             "incidents": "63",
             "miles": "559774"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "25",
             "miles": "36589"
         },
@@ -5447,27 +5447,27 @@
             "incidents": "9",
             "miles": "2471"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "61722"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "80",
             "miles": "12484196"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "19",
             "miles": "110530"
         },
-        "New York": {
+        "New_York": {
             "incidents": "114",
             "miles": "19832368"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "28",
             "miles": "381572"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "23",
             "miles": "250822"
         },
@@ -5487,18 +5487,18 @@
             "incidents": "107",
             "miles": "6365122"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "30",
             "miles": "245853"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "14",
             "miles": "2657497"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "60",
             "miles": "280744"
         },
@@ -5522,7 +5522,7 @@
             "incidents": "44",
             "miles": "585440"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "20",
             "miles": "32605"
         },
@@ -5651,26 +5651,26 @@
             "incidents": "8",
             "miles": "10909"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "64820"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "101",
             "miles": "12897298"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "27",
             "miles": "98237"
         },
-        "New York": {
+        "New_York": {
             "incidents": "128",
             "miles": "19854153"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "55",
             "miles": "390892"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "23",
             "miles": "261697"
         },
@@ -5690,18 +5690,18 @@
             "incidents": "136",
             "miles": "6293626"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "24",
             "miles": "257729"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "16",
             "miles": "4183271"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "76",
             "miles": "268751"
         },
@@ -5725,7 +5725,7 @@
             "incidents": "75",
             "miles": "611170"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "19",
             "miles": "35266"
         },
@@ -5854,27 +5854,27 @@
             "incidents": "17",
             "miles": "15229"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "62805"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "103",
             "miles": "14084819"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "37",
             "miles": "116465"
         },
-        "New York": {
+        "New_York": {
             "incidents": "120",
             "miles": "18304529"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "41",
             "miles": "381909"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "18",
             "miles": "263211"
         },
@@ -5894,19 +5894,19 @@
             "incidents": "163",
             "miles": "6055627"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "8",
             "miles": "4496"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "46",
             "miles": "279487"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "35",
             "miles": "4097941"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "76",
             "miles": "254451"
         },
@@ -5930,7 +5930,7 @@
             "incidents": "74",
             "miles": "658022"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "30",
             "miles": "38693"
         },
@@ -6059,27 +6059,27 @@
             "incidents": "16",
             "miles": "21592"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "61164"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "100",
             "miles": "15989608"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "48",
             "miles": "243478"
         },
-        "New York": {
+        "New_York": {
             "incidents": "119",
             "miles": "18490665"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "36",
             "miles": "358434"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "35",
             "miles": "264754"
         },
@@ -6099,19 +6099,19 @@
             "incidents": "125",
             "miles": "5946521"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1",
             "miles": "4719"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "34",
             "miles": "310610"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "28",
             "miles": "3332637"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "74",
             "miles": "266371"
         },
@@ -6135,7 +6135,7 @@
             "incidents": "84",
             "miles": "820455"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "44",
             "miles": "153699"
         },
@@ -6264,26 +6264,26 @@
             "incidents": "19",
             "miles": "19800"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "57596"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "68",
             "miles": "16019406"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "32",
             "miles": "282952"
         },
-        "New York": {
+        "New_York": {
             "incidents": "119",
             "miles": "19133558"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "38",
             "miles": "352721"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "21",
             "miles": "261136"
         },
@@ -6303,19 +6303,19 @@
             "incidents": "114",
             "miles": "6087831"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "4106"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "18",
             "miles": "313854"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "10",
             "miles": "3375956"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "79",
             "miles": "270707"
         },
@@ -6339,7 +6339,7 @@
             "incidents": "76",
             "miles": "813362"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "33",
             "miles": "125982"
         },
@@ -6468,27 +6468,27 @@
             "incidents": "7",
             "miles": "21132"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "57929"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "89",
             "miles": "16545626"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "23",
             "miles": "424338"
         },
-        "New York": {
+        "New_York": {
             "incidents": "88",
             "miles": "19455258"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "33",
             "miles": "351378"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "31",
             "miles": "295976"
         },
@@ -6508,19 +6508,19 @@
             "incidents": "101",
             "miles": "6025865"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1",
             "miles": "5150"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "31",
             "miles": "320567"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "16",
             "miles": "3317770"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "66",
             "miles": "364270"
         },
@@ -6544,7 +6544,7 @@
             "incidents": "63",
             "miles": "982150"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "26",
             "miles": "325109"
         },
@@ -6673,26 +6673,26 @@
             "incidents": "13",
             "miles": "18963"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "57499"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "55",
             "miles": "17092410"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "26",
             "miles": "433687"
         },
-        "New York": {
+        "New_York": {
             "incidents": "79",
             "miles": "19748744"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "33",
             "miles": "365298"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "30",
             "miles": "289072"
         },
@@ -6712,19 +6712,19 @@
             "incidents": "86",
             "miles": "6129275"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "5",
             "miles": "7763"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "23",
             "miles": "301681"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "16",
             "miles": "3309594"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "72",
             "miles": "366494"
         },
@@ -6748,7 +6748,7 @@
             "incidents": "64",
             "miles": "889695"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "26",
             "miles": "333739"
         },
@@ -6877,27 +6877,27 @@
             "incidents": "6",
             "miles": "24291"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "52619"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "81",
             "miles": "16530628"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "17",
             "miles": "740396"
         },
-        "New York": {
+        "New_York": {
             "incidents": "77",
             "miles": "19581065"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "34",
             "miles": "298605"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "22",
             "miles": "290346"
         },
@@ -6917,19 +6917,19 @@
             "incidents": "90",
             "miles": "6021184"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "4838"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "20",
             "miles": "245753"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "11",
             "miles": "2709163"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "59",
             "miles": "311027"
         },
@@ -6953,7 +6953,7 @@
             "incidents": "44",
             "miles": "811216"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "19",
             "miles": "268479"
         },
@@ -7082,26 +7082,26 @@
             "incidents": "7",
             "miles": "19817"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "47142"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "68",
             "miles": "16465124"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "16",
             "miles": "724007"
         },
-        "New York": {
+        "New_York": {
             "incidents": "54",
             "miles": "19342483"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "32",
             "miles": "330383"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "23",
             "miles": "295829"
         },
@@ -7121,19 +7121,19 @@
             "incidents": "90",
             "miles": "6262281"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2",
             "miles": "2849"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "13",
             "miles": "232337"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "7",
             "miles": "2849232"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "38",
             "miles": "312314"
         },
@@ -7157,7 +7157,7 @@
             "incidents": "60",
             "miles": "829043"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "31",
             "miles": "251404"
         },
@@ -7286,27 +7286,27 @@
             "incidents": "13",
             "miles": "17712"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "45404"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "75",
             "miles": "16695035"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "26",
             "miles": "766334"
         },
-        "New York": {
+        "New_York": {
             "incidents": "71",
             "miles": "19214936"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "24",
             "miles": "356005"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "42",
             "miles": "275640"
         },
@@ -7326,19 +7326,19 @@
             "incidents": "66",
             "miles": "6309534"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "7242"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "14",
             "miles": "217475"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "17",
             "miles": "1044536"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "48",
             "miles": "337026"
         },
@@ -7362,7 +7362,7 @@
             "incidents": "46",
             "miles": "855852"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "28",
             "miles": "249354"
         },
@@ -7490,26 +7490,26 @@
             "incidents": "10",
             "miles": "17711"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "51269"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "59",
             "miles": "16535007"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "22",
             "miles": "782747"
         },
-        "New York": {
+        "New_York": {
             "incidents": "39",
             "miles": "19383870"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "27",
             "miles": "326319"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "25",
             "miles": "302905"
         },
@@ -7529,19 +7529,19 @@
             "incidents": "63",
             "miles": "6250683"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "3",
             "miles": "10323"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "15",
             "miles": "217062"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "10",
             "miles": "70357"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "32",
             "miles": "376949"
         },
@@ -7565,7 +7565,7 @@
             "incidents": "44",
             "miles": "925882"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "14",
             "miles": "198857"
         },
@@ -7694,27 +7694,27 @@
             "incidents": "9",
             "miles": "21609"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "1",
             "miles": "51928"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "42",
             "miles": "16746494"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "37",
             "miles": "851156"
         },
-        "New York": {
+        "New_York": {
             "incidents": "53",
             "miles": "20254143"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "26",
             "miles": "286604"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "23",
             "miles": "301352"
         },
@@ -7734,19 +7734,19 @@
             "incidents": "69",
             "miles": "6275132"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2",
             "miles": "8928"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "14",
             "miles": "120912"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "9",
             "miles": "68558"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "58",
             "miles": "370262"
         },
@@ -7770,7 +7770,7 @@
             "incidents": "39",
             "miles": "957566"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "16",
             "miles": "167458"
         },
@@ -7899,27 +7899,27 @@
             "incidents": "9",
             "miles": "20875"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "52896"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "48",
             "miles": "17053112"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "19",
             "miles": "885351"
         },
-        "New York": {
+        "New_York": {
             "incidents": "44",
             "miles": "20484355"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "34",
             "miles": "333634"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "24",
             "miles": "329050"
         },
@@ -7939,19 +7939,19 @@
             "incidents": "103",
             "miles": "6598174"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2",
             "miles": "9478"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "18",
             "miles": "122741"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "7",
             "miles": "277364"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "43",
             "miles": "365154"
         },
@@ -7975,7 +7975,7 @@
             "incidents": "43",
             "miles": "991280"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "19",
             "miles": "180291"
         },
@@ -8104,26 +8104,26 @@
             "incidents": "6",
             "miles": "24615"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "53230"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "60",
             "miles": "17078606"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "26",
             "miles": "869335"
         },
-        "New York": {
+        "New_York": {
             "incidents": "69",
             "miles": "20268598"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "30",
             "miles": "399255"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "16",
             "miles": "318355"
         },
@@ -8143,19 +8143,19 @@
             "incidents": "85",
             "miles": "6866732"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "4",
             "miles": "10657"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "24",
             "miles": "155268"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "13",
             "miles": "563611"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "50",
             "miles": "345174"
         },
@@ -8179,7 +8179,7 @@
             "incidents": "38",
             "miles": "938737"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "20",
             "miles": "179727"
         },
@@ -8308,26 +8308,26 @@
             "incidents": "3",
             "miles": "20006"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "53782"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "52",
             "miles": "16977343"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "15",
             "miles": "858678"
         },
-        "New York": {
+        "New_York": {
             "incidents": "41",
             "miles": "20224252"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "21",
             "miles": "392733"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "14",
             "miles": "311049"
         },
@@ -8347,18 +8347,18 @@
             "incidents": "84",
             "miles": "7176407"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "miles": "11179"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "17",
             "miles": "181326"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "8",
             "miles": "560784"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "50",
             "miles": "326823"
         },
@@ -8381,7 +8381,7 @@
             "incidents": "58",
             "miles": "969615"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "17",
             "miles": "181180"
         },
@@ -8510,26 +8510,26 @@
             "incidents": "4",
             "miles": "20228"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "53171"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "44",
             "miles": "16793041"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "24",
             "miles": "587682"
         },
-        "New York": {
+        "New_York": {
             "incidents": "90",
             "miles": "20185181"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "30",
             "miles": "387434"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "18",
             "miles": "347962"
         },
@@ -8549,19 +8549,19 @@
             "incidents": "65",
             "miles": "7557109"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "2",
             "miles": "9116"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "29",
             "miles": "169021"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "12",
             "miles": "614962"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "41",
             "miles": "330748"
         },
@@ -8585,7 +8585,7 @@
             "incidents": "54",
             "miles": "965338"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "18",
             "miles": "361977"
         },
@@ -8713,26 +8713,26 @@
             "incidents": "8",
             "miles": "35317"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "52675"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "57",
             "miles": "16843302"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "18",
             "miles": "614812"
         },
-        "New York": {
+        "New_York": {
             "incidents": "105",
             "miles": "20147784"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "42",
             "miles": "392367"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "16",
             "miles": "332333"
         },
@@ -8752,18 +8752,18 @@
             "incidents": "82",
             "miles": "7304419"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "miles": "8749"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "27",
             "miles": "151600"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "11",
             "miles": "80405"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "53",
             "miles": "327147"
         },
@@ -8787,7 +8787,7 @@
             "incidents": "43",
             "miles": "1003313"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "15",
             "miles": "367923"
         },
@@ -8916,27 +8916,27 @@
             "incidents": "12",
             "miles": "12409"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "6",
             "miles": "55840"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "53",
             "miles": "16870506"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "27",
             "miles": "595778"
         },
-        "New York": {
+        "New_York": {
             "incidents": "62",
             "miles": "20176387"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "29",
             "miles": "381418"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "21",
             "miles": "338183"
         },
@@ -8956,18 +8956,18 @@
             "incidents": "73",
             "miles": "7244100"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "miles": "9811"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "26",
             "miles": "146863"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "11",
             "miles": "66276"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "57",
             "miles": "300492"
         },
@@ -8991,7 +8991,7 @@
             "incidents": "48",
             "miles": "956197"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "7",
             "miles": "316677"
         },
@@ -9120,27 +9120,27 @@
             "incidents": "10",
             "miles": "17387"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "incidents": "2",
             "miles": "46695"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "58",
             "miles": "15409430"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "17",
             "miles": "248307"
         },
-        "New York": {
+        "New_York": {
             "incidents": "60",
             "miles": "15593081"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "30",
             "miles": "308082"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "14",
             "miles": "289480"
         },
@@ -9160,19 +9160,19 @@
             "incidents": "60",
             "miles": "4042684"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1",
             "miles": "5138"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "20",
             "miles": "133800"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "15",
             "miles": "531850"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "47",
             "miles": "223707"
         },
@@ -9196,7 +9196,7 @@
             "incidents": "45",
             "miles": "761406"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "17",
             "miles": "160901"
         },
@@ -9325,26 +9325,26 @@
             "incidents": "7",
             "miles": "17426"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "52319"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "55",
             "miles": "16448282"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "21",
             "miles": "671563"
         },
-        "New York": {
+        "New_York": {
             "incidents": "65",
             "miles": "15506084"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "23",
             "miles": "266106"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "12",
             "miles": "281662"
         },
@@ -9364,19 +9364,19 @@
             "incidents": "82",
             "miles": "4411075"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "incidents": "1",
             "miles": "4529"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "32",
             "miles": "132727"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "4",
             "miles": "588555"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "42",
             "miles": "228713"
         },
@@ -9399,7 +9399,7 @@
             "incidents": "31",
             "miles": "765399"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "12",
             "miles": "163149"
         },
@@ -9528,26 +9528,26 @@
             "incidents": "6",
             "miles": "46638"
         },
-        "New Hampshire": {
+        "New_Hampshire": {
             "miles": "55461"
         },
-        "New Jersey": {
+        "New_Jersey": {
             "incidents": "50",
             "miles": "16743087"
         },
-        "New Mexico": {
+        "New_Mexico": {
             "incidents": "18",
             "miles": "556541"
         },
-        "New York": {
+        "New_York": {
             "incidents": "61",
             "miles": "27679576"
         },
-        "North Carolina": {
+        "North_Carolina": {
             "incidents": "31",
             "miles": "235685"
         },
-        "North Dakota": {
+        "North_Dakota": {
             "incidents": "15",
             "miles": "279948"
         },
@@ -9567,18 +9567,18 @@
             "incidents": "67",
             "miles": "5194945"
         },
-        "Rhode Island": {
+        "Rhode_Island": {
             "miles": "2955"
         },
-        "South Carolina": {
+        "South_Carolina": {
             "incidents": "25",
             "miles": "131861"
         },
-        "South Dakota": {
+        "South_Dakota": {
             "incidents": "10",
             "miles": "572169"
         },
-        "Tennessee": {
+        "tennesse": {
             "incidents": "64",
             "miles": "237407"
         },
@@ -9601,7 +9601,7 @@
             "incidents": "45",
             "miles": "801611"
         },
-        "West Virginia": {
+        "West_Virginia": {
             "incidents": "10",
             "miles": "165432"
         },
