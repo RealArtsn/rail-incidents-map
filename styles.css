@@ -6,20 +6,39 @@ body {
     background-color:rgb(44, 44, 44);
 }
 
-h1, h2 {
+h1, h2, button {
     color: white;
 }
 
 .slidercontainer {
     width:50%;
     margin:5px;
+    margin-bottom:0;
 }
 .slider {
     width:100%;
+}
+
+.buttonContainer {
+    display:flex;
+    justify-content:space-between;
+}
+
+.buttonPressed {
+    border:none;
+}
+
+button {
+    background-color: rgb(44, 44, 44);
+    margin-bottom:0;
+    font-size: 20pt;
+    margin:0;
+    border-radius:10px;
 }
 
 #map {
     /* match dimensions of svg */
     width:989.98px;
     height:627.07px;
+    border-radius:30px;
 }

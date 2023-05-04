@@ -8,11 +8,17 @@
 <body>
     <script src="color.js" defer></script>
     <h1>RAIL INCIDENTS BY YEAR</h1>
-    <h2 id="year">2020</h2>
+    <h2 id="year">2022</h2>
     <div class="slidercontainer">
         <input type="range" min="1975" max="2022" value="2022" step="1" class="slider" id="yearSlider">
+        <div class="buttonContainer">
+            <button id="incidents">Incidents</button>
+            <button id="miles">Operating Miles</button>
+            <button id="ratio">Incidents/1M Miles</button>
+        </div>
     </div>
-  <iframe src="Usa_counties_large.svg" id="map"></iframe>
+
+    <iframe src="Usa_counties_large.svg" id="map"></iframe>
     
 </body>
 </html>
