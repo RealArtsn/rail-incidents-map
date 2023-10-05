@@ -1,14 +1,24 @@
 const map = new Object()
-function init() {
-
-    console.log(map.svg);
+async function init() {
+    // try to load map 10 times
+    let i = 0;
+    const MAX_LOOPS = 10;
+    // retry if blank page is loaded from iframe
+    while (!map.svg || !map.svg.querySelectorAll('#counties path').length) {
+        i++;
+        if (i > MAX_LOOPS) {
+            console.error('Could not retrieve map.');
+            break;
+        }
+        console.log('Retrieving map...');
+        await loadMap();
+    }
     // this will not work by opening html from local file
     // use npm module http-server instead
     fetch('years_states_named.json') // this is the input json file for the data
     .then(response => response.json())
     .then(data => {
         // retrieve svg for color editing
-        map.svg = document.querySelector('#map').contentDocument;
         map.data = data;
         // calculate incidents per 1m miles and save in data set
         recordRatios();
@@ -20,19 +30,30 @@ function init() {
         console.log('data initialized')
         // set year slider to 2022
         document.querySelector('#yearSlider').value = 2022;
-        console.log("Slider set.")
+        console.log("Slider set.");
         // set default mode
         map.mode = 'incidents';
         updateColors();
         updateScale('red'); // start with a red gradient
     })
-    .catch(error => console.error(error));            
+    .catch(error => console.error(error));   
+}
+
+// attempt to load map with delay to allow svg to be retrieved
+async function loadMap() {
+    const DELAY = 250;
+    let promise = new Promise((resolve, reject) => {
+        map.svg = document.querySelector('#map').contentDocument;
+        setTimeout(() => resolve('done!'), DELAY);
+    })
+    await promise;
 }
 
 ['incidents','miles','ratio'].forEach(id => {
     document.querySelector(`#${id}`).addEventListener('click', handleButton);
 })
 
+// respond to button clicks
 function handleButton() {
     map.mode = this.id;
     updateColors();
